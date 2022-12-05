@@ -1,0 +1,116 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Ajay K Pandey",
+      "cover_photo": "https://m.media-amazon.com/images/I/813eYwNgZ8L._AC_UY218_.jpg",
+      "book_name": "Everything I Never Told You",
+      "category": "Novel",
+      "release_year": 2020,
+      "price": 109,
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "author": "Ashwin Sanghi",
+      "cover_photo": "https://m.media-amazon.com/images/I/41B93B0tNuL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "book_name": "Everything I Never Told You",
+      "category": "Thriller",
+      "release_year": 2022,
+      "price": 267,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "author": "Franz Kafka",
+      "cover_photo": "https://m.media-amazon.com/images/I/41xME4JDBFS._SX460_BO1,204,203,200_.jpg",
+      "book_name": "Metamorphosis",
+      "category": "Novel",
+      "release_year": 2022,
+      "price": 79,
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "author": "Saksham Garg",
+      "cover_photo": "https://m.media-amazon.com/images/I/51N9wF0JloL._SX324_BO1,204,203,200_.jpg",
+      "book_name": "Samsara: Enter the Valley of the Gods",
+      "category": "Thriller",
+      "release_year": 2022,
+      "price": 168,
+      "qty": 1
+    },
+    {
+      "id": 5,
+      "author": "Rooprashi ",
+      "cover_photo": "https://m.media-amazon.com/images/I/41riQ0xYubL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "book_name": "Our Non-fairy Tale Life",
+      "category": "Novel",
+      "release_year": 2022,
+      "price": 159,
+      "qty": 1
+    },
+    {
+      "id": 6,
+      "author": "Joseph Murphy",
+      "cover_photo": "https://m.media-amazon.com/images/I/41+CqNWoutS._SX460_BO1,204,203,200_.jpg",
+      "book_name": "The Power of Your Subconscious Mind",
+      "category": "Motivational",
+      "release_year": 2015,
+      "price": 199,
+      "qty": 1
+    },
+    {
+      "id": 7,
+      "author": "Stephen Hawking",
+      "cover_photo": "https://m.media-amazon.com/images/I/51oHUvYzbsL._SX327_BO1,204,203,200_.jpg",
+      "book_name": "The Theory Of Everything",
+      "category": "Science_Fiction",
+      "release_year": 2006,
+      "price": 139,
+      "qty": 1
+    },
+    {
+      "id": 8,
+      "author": "George Matthew Adams",
+      "cover_photo": "https://m.media-amazon.com/images/I/4180omRGrSL._SX460_BO1,204,203,200_.jpg",
+      "book_name": "You Can",
+      "category": "Motivational",
+      "release_year": 2020,
+      "price": 150,
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "author": "Aditya Upadhaya",
+      "cover_photo": "https://m.media-amazon.com/images/I/41KiyP6vx1L._SX311_BO1,204,203,200_.jpg",
+      "book_name": "Science and Magic - The Search Begins",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "price": 149,
+      "qty": 1
+    },
+    {
+      "id": 10,
+      "author": "Gaur Gopal Das",
+      "cover_photo": "https://m.media-amazon.com/images/I/51PJyvcfPGL._SX321_BO1,204,203,200_.jpg",
+      "book_name": "Life's Amazing Secrets",
+      "category": "Motivational",
+      "release_year": 2018,
+      "price": 160,
+      "qty": 1
+    }
+  ],
+  "addToCart": [
+    {
+      "id": 5,
+      "author": "Rooprashi ",
+      "cover_photo": "https://m.media-amazon.com/images/I/41riQ0xYubL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "book_name": "Our Non-fairy Tale Life",
+      "category": "Novel",
+      "release_year": 2022,
+      "price": 159,
+      "qty": 1
+    }
+  ]
+}

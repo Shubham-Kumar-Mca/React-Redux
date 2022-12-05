@@ -1,13 +1,148 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Books-container{
+  padding: 0 40px;
+  display: flex;
+  align-content: center;
+  gap: 10px;
+}
+.BookFilter-container{
+  width: 25%;
+  border: 1px solid teal;
+}
+.BookList-container{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 10px;
+}
+.singleBook{
+  border: 1px solid teal;
+}
+.Book-Dertails{
+  margin-left: 10px;
+  padding: 5px;
+  height: 90px;
+}
+.Book-Dertails p{
+  margin-top: 2px;
+}
+.btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: none;
+  color: #fff;
+  background-color: rgb(14, 56, 14);
+  font-size: 18px;
+  border-radius: 5px;
+}
+.Book-filter-container, .Book-sorting-container{
+  padding: 10px 15px;
+}
+.Book-filter-container div, .Book-sorting-container div{
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.Book-filter-container h3, .Book-sorting-container h3{
+  margin-bottom: 10px;
+}
+.Book-filter-container div label, .Book-sorting-container div label{
+  margin-left: 5px;
+}
+.Book-filter-container div input[type="checkbox"]:hover, .Book-sorting-container div input[type="radio"]:hover{
+  cursor: pointer;
+}
+.Navbar-Component{
+  height: 70px;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  background-color: black;
+}
+.Navbar-Component h2{
+  font-size: 30px;
+}
+.navbar-bag{
+  display: flex;
+  align-items: center;
+}
+.Navbar-Component a{
+  color: #fff;
+}
+.bag-Quantity{
+  margin-left: -15px;
+  margin-top: -15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  background: yellow;
+  border-radius: 50%;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+/*Not found*/
+.Not-found{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(68, 68, 68);
+  min-height: 80vh;
+}
+.Not-found p{
+  font-size: 28px;
+}
+.Not-found h2{
+  font-size: 48px;
+}
+/*End Not Found*/
+.cart-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  padding: 20px 30px;
+  border-bottom: 5px solid green;
+}
+.cart-section img{
+  width: 100px;
+  height: 100px;
+}
+.cart-section button{
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #fff;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.cart-section input[type="number"]{
+  width: 50px;
+  outline: none;
+}
+.total{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.total h1{
+  width: 200px;
 }
