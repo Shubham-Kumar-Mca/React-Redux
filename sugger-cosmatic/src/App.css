@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 5rem 0;
+}
+
+.ghost{
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+.red {
+  background-color: red;
+  color: white;
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}

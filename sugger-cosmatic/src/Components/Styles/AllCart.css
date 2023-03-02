@@ -1,0 +1,29 @@
+.cart-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding: 20px 30px;
+    border-bottom: 5px solid green;
+}
+
+.cart-section img {
+    width: 100px;
+    height: 100px;
+}
+
+.cart-section button {
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.cart-section input[type="number"] {
+    width: 50px;
+    outline: none;
+}

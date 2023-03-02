@@ -1,0 +1,2338 @@
+{
+  "makupPage": [
+    {
+      "id": 1,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F01_d6ffec78-c2b6-4466-8672-233fee0285a8.jpg%3Fv%3D1644394232&w=256&q=75",
+      "title": "Matte As Hell Crayon Lipstick",
+      "price": 849,
+      "rating": "4.8 (645)",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FSUGAR-Prime-Sublime-Primer---Powered-By-Images1_ebe7ea59-dff5-4a2a-9a70-c94435d3f46e.jpg%3Fv%3D1666928973&w=256&q=75",
+      "title": "SUGAR Prime Sublime Primer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F17-Raf-Mini-1_722c9db9-41f9-4a9f-8084-f121e232d86f.jpg%3Fv%3D1658851265&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 7 gms",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg%3Fv%3D1657257149&w=256&q=75",
+      "title": "Base Of Glory Pore Minimizing Primer",
+      "price": 799,
+      "rating": "4.8 (278)",
+      "qty": 1
+    },
+    {
+      "id": 5,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_51afaa84-af89-42b5-bdb8-a51b01257bc0.jpg%3Fv%3D1639582607&w=256&q=75",
+      "title": "Contour De Force Face Palette",
+      "price": 799,
+      "rating": "4.7 (521)",
+      "qty": 1
+    },
+    {
+      "id": 6,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6f55bcac-3e42-4253-88ee-cec0fa43c62a.jpg%3Fv%3D1645608270&w=256&q=75",
+      "title": "Matte Attack Transferproof Lipstick",
+      "price": 699,
+      "rating": "4.7 (393)",
+      "qty": 1
+    },
+    {
+      "id": 7,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-cool-toned-brown-gray-undertone-11020228624467.jpg%3Fv%3D1619102678&w=256&q=75",
+      "title": "Contour De Force Mini Bronzer",
+      "price": 399,
+      "rating": "4.7 (88)",
+      "qty": 1
+    },
+    {
+      "id": 8,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-all-set-to-go-banana-powder-13289662218323.jpg%3Fv%3D1619115199&w=256&q=75",
+      "title": "All Set To Go Banana Powder",
+      "price": 599,
+      "rating": "4.8 (148)",
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_2d186f9b-9024-4e23-a0d2-a55b7671e89c.jpg%3Fv%3D1657123108&w=256&q=75",
+      "title": "Contour De Force Eyes And Face Palette",
+      "price": 1099,
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 10,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F382512089-mettle-priming-balm-01.jpg%3Fv%3D1648654861&w=256&q=75",
+      "title": "Mettle Priming Balm",
+      "price": 1099,
+      "qty": 1
+    },
+    {
+      "id": 11,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F01_59809bd6-49ef-4c6b-b262-47002bedc963.jpg%3Fv%3D1639755559&w=256&q=75",
+      "title": "Blend The Rules Eyeshadow Palette",
+      "price": 1199,
+      "rating": "4.8 (124)",
+      "qty": 1
+    },
+    {
+      "id": 12,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_1da9dee5-9c2e-4135-994c-9b7d2ca23e6b.jpg%3Fv%3D1670501882&w=256&q=75",
+      "title": "Nothing Else Matter Longwear Lipstick",
+      "price": 599,
+      "rating": "4.8 (72)",
+      "qty": 1
+    },
+    {
+      "id": 13,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12796432941139.jpg%3Fv%3D1619114695&w=256&q=75",
+      "title": "Goddess Of Flawless SPF30+ BB Cream",
+      "price": 799,
+      "rating": "4.8 (51)",
+      "qty": 1
+    },
+    {
+      "id": 14,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-12775602356307.jpg%3Fv%3D1619106501&w=256&q=75",
+      "title": "Dream Cover SPF15 Mattifying Compact",
+      "price": 499,
+      "rating": "4.8 (272)",
+      "qty": 1
+    },
+    {
+      "id": 15,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_ef579f2e-602e-4d2f-bed2-bf0efdf4f184.jpg%3Fv%3D1644325813&w=256&q=75",
+      "title": "Smudge Me Not Liquid Lipstick",
+      "price": 499,
+      "rating": "4.8 (765)",
+      "qty": 1
+    },
+    {
+      "id": 16,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-11020203884627.jpg%3Fv%3D1619102626&w=256&q=75",
+      "title": "Contour De Force Mini Blush",
+      "price": 349,
+      "rating": "4.8 (195)",
+      "qty": 1
+    },
+    {
+      "id": 17,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F01_5e8187e3-f7a2-40aa-a759-d4bf69769234.jpg%3Fv%3D1639496327&w=256&q=75",
+      "title": "Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+      "price": 249,
+      "rating": "4.8 (264)",
+      "qty": 1
+    },
+    {
+      "id": 18,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_529c20ee-c872-4029-9702-8580d7b9a66f.jpg%3Fv%3D1640178644&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick",
+      "price": 999,
+      "rating": "4.8 (742)",
+      "qty": 1
+    },
+    {
+      "id": 19,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_7cdc1fa6-fc3f-4cae-93c7-f940ff2da937.jpg%3Fv%3D1657209586&w=256&q=75",
+      "title": "Contour De Force Eyes And Face Palette 01 - Warm Win",
+      "price": 1099,
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 20,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-bling-leader-illuminating-moisturizer-13644982681683.jpg%3Fv%3D1619115847&w=256&q=75",
+      "title": "Bling Leader Illuminating Moisturizer",
+      "price": 699,
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 21,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_13a304df-efca-4b67-aa0f-f97acd6869a3.jpg%3Fv%3D1657209602&w=256&q=75",
+      "title": "Contour De Force Eyes And Face Palette 02 - Pink Pro",
+      "price": 1099,
+      "qty": 1
+    },
+    {
+      "id": 22,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-limited-edition-nothing-else-matter-longwear-lipstick-15288678613075.jpg%3Fv%3D1619115170&w=256&q=75",
+      "title": "Limited Edition Nothing Else Matter Longwear Lipstick",
+      "price": 599,
+      "rating": "4.8 (78)",
+      "qty": 1
+    },
+    {
+      "id": 23,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6_450a8655-59a5-41d8-9fca-5dd95d128534.jpg%3Fv%3D1658418866&w=256&q=75",
+      "title": "Eye Warned You So! Double Matte Eyeliner",
+      "price": 699,
+      "rating": "4.8 (128)",
+      "qty": 1
+    },
+    {
+      "id": 24,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644813116&w=256&q=75",
+      "title": "Air Kiss Powder Lipstick",
+      "price": 499,
+      "rating": "4.7 (56)",
+      "qty": 1
+    },
+    {
+      "id": 25,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_df1e9403-ae9d-430c-8226-622d21c4743d.jpg%3Fv%3D1640676422&w=256&q=75",
+      "title": "Arch Arrival Brow Definer",
+      "price": 499,
+      "rating": "4.7 (221)",
+      "qty": 1
+    },
+    {
+      "id": 26,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade37_Ace-of-Face-Full-WBG-1.jpg%3Fv%3D1667373500&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 35 Frappe (Medium, Neutral Undertone)",
+      "price": 999,
+      "rating": "4.9 (40)",
+      "qty": 1
+    },
+    {
+      "id": 27,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade30_Ace-of-Face-Full-WBG-1.jpg%3Fv%3D1667214775&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 30 Chococcino (Medium, Warm Undertone)",
+      "price": 999,
+      "rating": "4.7 (39)",
+      "qty": 1
+    },
+    {
+      "id": 28,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade-20_Ace-of-Face-Full-WBG-1.jpg%3Fv%3D1667213928&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 20 Galão (Light Medium, Golden Undertone)",
+      "price": 999,
+      "rating": "4.8 (47)",
+      "qty": 1
+    },
+    {
+      "id": 29,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade37_Ace-of-Face-Full-WBG-1_d34d287d-97d8-4cbe-80ae-b3c8244e8d57.jpg%3Fv%3D1667374229&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 37 Freddo (Medium Beige, Golden Peach Undertone)",
+      "price": 999,
+      "rating": "4.9 (32)",
+      "qty": 1
+    },
+    {
+      "id": 30,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade10_Ace-of-Face-Mini-WBG-1_a94b3b53-e7ea-4872-9bda-eb2f289f4079.jpg%3Fv%3D1666196076&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 10 Latte (Light, Warm Undertone)",
+      "price": 999,
+      "rating": "4.6 (35)",
+      "qty": 1
+    },
+    {
+      "id": 31,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-13278398611539.jpg%3Fv%3D1619114712&w=256&q=75",
+      "title": "Magic Wand Waterproof Concealer",
+      "price": 849,
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 32,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-contour-de-force-mini-blush-02-pink-pinnacle-deep-rose-12785043669075.jpg%3Fv%3D1619102659&w=256&q=75",
+      "title": "Contour De Force Mini Blush - 02 Pink Pinnacle (Deep Rose)",
+      "price": 349,
+      "rating": "4.9 (69)",
+      "qty": 1
+    },
+    {
+      "id": 33,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade15_Ace-of-Face-Full-WBG-1.jpg%3Fv%3D1667455068&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 15 Cappuccino (Light, Cool Undertone)",
+      "price": 999,
+      "rating": "4.8 (25)",
+      "qty": 1
+    },
+    {
+      "id": 34,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F40-Breve-Big.jpg%3Fv%3D1658732325&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 40 Breve (Medium Beige, Warm Undertone)",
+      "price": 999,
+      "rating": "4.9 (49)",
+      "qty": 1
+    },
+    {
+      "id": 35,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F25-Mac-Big.jpg%3Fv%3D1658739635&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 25 Macchiato (Light Medium, Olive Undertone)",
+      "price": 999,
+      "rating": "4.9 (36)",
+      "qty": 1
+    },
+    {
+      "id": 36,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-uptown-curl-lengthening-mascara-01-black-beauty-black-28122637828179.jpg%3Fv%3D1619106532&w=256&q=75",
+      "title": "Uptown Curl Lengthening Mascara - 01 Black Beauty (Black)",
+      "price": 499,
+      "rating": "4.8 (88)",
+      "qty": 1
+    },
+    {
+      "id": 37,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-twist-and-shout-fadeproof-kajal-01-black-velvet-black-14255312109651.jpg%3Fv%3D1619100296&w=256&q=75",
+      "title": "Twist And Shout Fadeproof Kajal",
+      "price": 399,
+      "rating": "4.7 (99)",
+      "qty": 1
+    },
+    {
+      "id": 38,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-gloss-boss-24hr-eyeliner-01-back-in-black-black-12771395436627_a805d7b4-0863-4ae0-9f15-a2292ae9aa93.jpg%3Fv%3D1632210594&w=256&q=75",
+      "title": "Gloss Boss 24HR Eyeliner - 01 Back In Black (Black)",
+      "price": 499,
+      "rating": "4.8 (23)",
+      "qty": 1
+    },
+    {
+      "id": 39,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-13200549380179.jpg%3Fv%3D1619110238&w=256&q=75",
+      "title": "Mettle Liquid Lipstick",
+      "price": 1199,
+      "rating": "4.9 (140)",
+      "qty": 1
+    },
+    {
+      "id": 40,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F17-Raf-Big.jpg%3Fv%3D1658733058&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 17 Raf (Light, Golden Undertone)",
+      "price": 999,
+      "rating": "4.7 (90)",
+      "qty": 1
+    },
+    {
+      "id": 41,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lipping-on-the-edge-lip-liner-01-taffeta-terracotta-13278188568659.jpg%3Fv%3D1619109027&w=256&q=75",
+      "title": "Lipping On The Edge Lip Liner",
+      "price": 525,
+      "rating": "4.8 (75)",
+      "qty": 1
+    },
+    {
+      "id": 42,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F32-Cor-Big.jpg%3Fv%3D1658730620&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick - 32 Cortado (Medium, Golden Undertone)",
+      "price": 999,
+      "rating": "4.8 (46)",
+      "qty": 1
+    },
+    {
+      "id": 43,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706258088019.jpg%3Fv%3D1619116113&w=256&q=75",
+      "title": "Mettle Satin Lipstick",
+      "price": 999,
+      "rating": "4.8 (204)",
+      "qty": 1
+    },
+    {
+      "id": 44,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lash-mob-limitless-mascara-01-black-with-a-bang-black-12775589871699.jpg%3Fv%3D1619100706&w=256&q=75",
+      "title": "Lash Mob Limitless Mascara - 01 Black With A Bang (Black)",
+      "price": 849,
+      "rating": "4.8 (48)",
+      "qty": 1
+    },
+    {
+      "id": 45,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-drop-the-base-serum-foundation-10959991767123.jpg%3Fv%3D1619107852&w=256&q=75",
+      "title": "Drop The Base Serum Foundation",
+      "price": 899,
+      "rating": "4.8 (167)",
+      "qty": 1
+    },
+    {
+      "id": 46,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-choclate-brown-13825382023251.jpg%3Fv%3D1619116620&w=256&q=75",
+      "title": "Face Fwd >> Contour Stick",
+      "price": 799,
+      "rating": "4.8 (86)",
+      "qty": 1
+    },
+    {
+      "id": 47,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13825375273043.jpg%3Fv%3D1619116614&w=256&q=75",
+      "title": "Face Fwd >> Blush Stick",
+      "price": 799,
+      "rating": "4.9 (43)",
+      "qty": 1
+    },
+    {
+      "id": 48,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F2_d5e8f5f6-db6f-43d4-a1ac-1da7b22fdc1b.jpg%3Fv%3D1652943021&w=256&q=75",
+      "title": "The Most Eligiblur Correcting Primer",
+      "price": 799,
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 49,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg%3Fv%3D1619116304&w=256&q=75",
+      "title": "Powder Play Translucent Compact",
+      "price": 599,
+      "rating": "4.8 (37)",
+      "qty": 1
+    },
+    {
+      "id": 50,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-seal-the-show-lip-primer-14162590433363.jpg%3Fv%3D1619106825&w=256&q=75",
+      "title": "Seal The Show Lip Primer",
+      "price": 599,
+      "rating": "4.7 (80)",
+      "qty": 1
+    },
+    {
+      "id": 51,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1CREATIVEIMAGE01.jpg%3Fv%3D1639496051&w=256&q=75",
+      "title": "Born To Wing Gel Eyeliner",
+      "price": 599,
+      "rating": "4.7 (93)",
+      "qty": 1
+    },
+    {
+      "id": 52,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-eye-told-you-so-smudgeproof-eyeliner-01-black-swan-black-13760408584275.jpg%3Fv%3D1619116364&w=256&q=75",
+      "title": "Eye Told You So! Smudgeproof Eyeliner",
+      "price": 699,
+      "rating": "4.6 (295)",
+      "qty": 1
+    },
+    {
+      "id": 53,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F10_399a571c-c091-4d1c-bc17-111b7da9cd4e.jpg%3Fv%3D1648741253&w=256&q=75",
+      "title": "Set The Tone Tinted Powder",
+      "price": 699,
+      "rating": "4.7 (100)",
+      "qty": 1
+    },
+    {
+      "id": 54,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_aab4d2fb-22ff-4c06-b906-608c50c2cce5.jpg%3Fv%3D1639582378&w=256&q=75",
+      "title": "Stroke Of Genius Heavy-Duty Kohl",
+      "price": 499,
+      "rating": "4.8 (56)",
+      "qty": 1
+    },
+    {
+      "id": 55,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6a5fa1af-0d0e-4e9e-85d1-579495fb5030.jpg%3Fv%3D1648482145&w=256&q=75",
+      "title": "Arch Arrival Micro Brow Pencil",
+      "price": 499,
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 56,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-primer-stick-13825409417299.jpg%3Fv%3D1619116598&w=256&q=75",
+      "title": "Face Fwd >> Primer Stick",
+      "price": 799,
+      "rating": "4.8 (66)",
+      "qty": 1
+    },
+    {
+      "id": 57,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_2170e342-a8fc-4fb4-a5ea-5f0c8bedbfdf.jpg%3Fv%3D1652942866&w=256&q=75",
+      "title": "The Most Eligiblur Correcting Primer - 01 Peach Precedent (Peach)",
+      "price": 799,
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 58,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-time-to-shine-lip-gloss-13905851580499.jpg%3Fv%3D1619116676&w=256&q=75",
+      "title": "Time To Shine Lip Gloss",
+      "price": 599,
+      "rating": "4.7 (62)",
+      "qty": 1
+    },
+    {
+      "id": 59,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_7194c993-55ca-40dd-ad41-ce1f40037293.jpg%3Fv%3D1648222945&w=256&q=75",
+      "title": "Arch Arrival Micro Brow Pencil - 01 Jerry Brow",
+      "price": 499,
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 60,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_270fb7dc-e51b-4c12-8bcf-18919fd35415.jpg%3Fv%3D1652942969&w=256&q=75",
+      "title": "The Most Eligiblur Correcting Primer - 02 Onward Orange (Orange)",
+      "price": 799,
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 61,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-arrested-for-overstay-waterproof-eyeliner-01-i-ll-be-black-black-12784884973651.jpg%3Fv%3D1619101912&w=256&q=75",
+      "title": "Arrested For Overstay Waterproof Eyeliner - 01 I'll Be Black (Black)",
+      "price": 899,
+      "rating": "4.7 (23)",
+      "qty": 1
+    },
+    {
+      "id": 62,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-the-most-eligiblur-smoothing-primer-28122626162771.jpg%3Fv%3D1619115330&w=256&q=75",
+      "price": 849,
+      "qty": 1
+    },
+    {
+      "id": 63,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-smudge-me-not-lip-duo-01-brazen-raisin-burgundy-13200661643347.jpg%3Fv%3D1619108721&w=256&q=75",
+      "title": "Smudge Me Not Lip Duos",
+      "price": 599,
+      "rating": "4.7 (23)",
+      "qty": 1
+    },
+    {
+      "id": 64,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_cbe39f4e-85f9-4d59-a27f-1933f693fd32.jpg%3Fv%3D1648482119&w=256&q=75",
+      "title": "Arch Arrival Micro Brow Pencil - 02 Taupe Tom",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 65,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-it-s-a-pout-time-vivid-lipstick-01-the-big-bang-berry-wine-13204815937619.jpg%3Fv%3D1619100487&w=256&q=75",
+      "title": "It's A-pout Time! Vivid Lipstick",
+      "price": 599,
+      "rating": "4.7 (23)",
+      "qty": 1
+    },
+    {
+      "id": 66,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_944437bb-7ed0-423f-bdbf-153ad7fefcde.jpg%3Fv%3D1652942992&w=256&q=75",
+      "title": "The Most Eligiblur Correcting Primer - 03 Jade Jockey (Green)",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 67,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-eye-dared-you-so-metallic-eyeliner-01-bronze-horseman-metallic-coppery-bronze-13272118165587.jpg%3Fv%3D1619108841&w=256&q=75",
+      "title": "Eye Dared You So! Metallic Eyeliner",
+      "price": 699,
+      "rating": "4.8 (44)",
+      "qty": 1
+    },
+    {
+      "id": 68,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mettle-matte-lipstick-01-athena-red-terracotta-13200497737811.jpg%3Fv%3D1619110264&w=256&q=75",
+      "title": "Mettle Matte Lipstick",
+      "price": 549,
+      "rating": "4.8 (40)",
+      "qty": 1
+    },
+    {
+      "id": 69,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13825390542931.jpg%3Fv%3D1619116625&w=256&q=75",
+      "title": "Face Fwd >> Corrector Stick",
+      "price": 799,
+      "rating": "4.6 (69)",
+      "qty": 1
+    },
+    {
+      "id": 70,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13825399652435.jpg%3Fv%3D1619116634&w=256&q=75",
+      "title": "Face Fwd >> Highlighter Stick",
+      "price": 799,
+      "rating": "4.8 (46)",
+      "qty": 1
+    }
+  ],
+  "BrushData": [
+    {
+      "id": 71,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlendTrendFaceBrush-007Powder.jpg%3Fv%3D1627660008&w=256&q=75",
+      "title": "Blend Trend Face Brush - 007 Powder",
+      "price": 499,
+      "productType": "Face_Brush",
+      "qty": 1
+    },
+    {
+      "id": 72,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlendTrendFaceBrush-006Highlighter.jpg%3Fv%3D1627660002&w=256&q=75",
+      "title": "Blend Trend Face Brush - 006 Highlighter",
+      "price": 399,
+      "rating": "4.7 (23)",
+      "productType": "Face_Brush",
+      "qty": 1
+    },
+    {
+      "id": 73,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlendTrendFaceBrush-001Blush.jpg%3Fv%3D1627659984&w=256&q=75",
+      "title": "Blend Trend Face Brush - 001 Blush",
+      "price": 399,
+      "rating": "4.9 (15)",
+      "productType": "Face_Brush",
+      "qty": 1
+    },
+    {
+      "id": 74,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-12-min.jpg%3Fv%3D1627573647&w=256&q=75",
+      "title": "Blend Trend Dual Face Brush - 075 Powder + Foundation",
+      "price": 599,
+      "rating": "4.8 (42)",
+      "productType": "Face_Brush",
+      "qty": 1
+    },
+    {
+      "id": 75,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlendTrendFaceBrush-003Contour.jpg%3Fv%3D1627659996&w=256&q=75",
+      "title": "Blend Trend Face Brush - 003 Contour",
+      "price": 399,
+      "rating": "4.5 (13)",
+      "productType": "Face_Brush",
+      "qty": 1
+    },
+    {
+      "id": 76,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-13.jpg%3Fv%3D1627659977&w=256&q=75",
+      "title": "Blend Trend Dual Eyeshadow Brush - 413 Flat + Round Xl",
+      "price": 599,
+      "rating": "5 (3)",
+      "productType": "Eyeshadow_Brush",
+      "qty": 1
+    },
+    {
+      "id": 77,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-14_1.jpg%3Fv%3D1627659982&w=256&q=75",
+      "title": "Blend Trend Eyeshadow Brush - 043 Round Xl",
+      "price": 399,
+      "rating": "4.8 (6)",
+      "productType": "Eyeshadow_Brush",
+      "qty": 1
+    },
+    {
+      "id": 78,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-5-min.jpg%3Fv%3D1627573639&w=256&q=75",
+      "title": "Blend Trend Dual Eyeshadow Brush - 412 Flat + Round",
+      "price": 599,
+      "rating": "4.3 (3)",
+      "productType": "Eyeshadow_Brush",
+      "qty": 1
+    },
+    {
+      "id": 79,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-2-min.jpg%3Fv%3D1627573652&w=256&q=75",
+      "title": "Blend Trend Eyeshadow Brush - 041 Flat",
+      "price": 399,
+      "rating": "5 (3)",
+      "productType": "Eyeshadow_Brush",
+      "qty": 1
+    },
+    {
+      "id": 80,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-3-min.jpg%3Fv%3D1627573657&w=256&q=75",
+      "title": "Blend Trend Eyeshadow Brush - 042 Round",
+      "price": 399,
+      "rating": "4.4 (5)",
+      "productType": "Eyeshadow_Brush",
+      "qty": 1
+    },
+    {
+      "id": 81,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlendTrendFoundationBrush-052Kabuki.jpg%3Fv%3D1627573664&w=256&q=75",
+      "title": "Blend Trend Foundation Brush - 052 Kabuki",
+      "price": 499,
+      "productType": "Foundation_Brush",
+      "qty": 1
+    },
+    {
+      "id": 82,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBeginnersEssentialsCombo3-WBGimages.jpg%3Fv%3D1630683820&w=256&q=75",
+      "title": "Face Essentials Combo",
+      "price": 1499,
+      "productType": "Brush_Combo",
+      "discount": "1796",
+      "off": "(16% Off)",
+      "rating": "5 (7)",
+      "qty": 1
+    },
+    {
+      "id": 83,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_1.jpg%3Fv%3D1630683833&w=256&q=75",
+      "title": "EYES & FACE Combo",
+      "price": 649,
+      "productType": "Brush_Combo",
+      "discount": "798",
+      "off": "(18% Off)",
+      "rating": "5 (7)",
+      "qty": 1
+    }
+  ],
+  "SkinData": [
+    {
+      "id": 84,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-swipe-right-cleansing-water-12771592732755.jpg%3Fv%3D1619106450&w=256&q=75",
+      "title": "Swipe Right Cleansing Water",
+      "price": 399,
+      "productType": "Cleansing Water",
+      "rating": "4.8 (55)",
+      "qty": 1
+    },
+    {
+      "id": 85,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-bubble-mask-12775750500435.jpg%3Fv%3D1644399394&w=256&q=75",
+      "title": "Charcoal Patrol Bubble Mask",
+      "price": 149,
+      "productType": "Face Mask",
+      "rating": "4.8 (31)",
+      "qty": 1
+    },
+    {
+      "id": 86,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-bubble-mask-pack-of-6-12784621125715.jpg%3Fv%3D1619114540&w=256&q=75",
+      "title": "Charcoal Patrol Bubble Mask (Pack of 6)",
+      "price": 699,
+      "productType": "Face Mask",
+      "discount": "894",
+      "off": "(21% Off)",
+      "rating": "5 (3)",
+      "qty": 1
+    },
+    {
+      "id": 87,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-clarifying-mask-12775754203219.jpg%3Fv%3D1619113702&w=256&q=75",
+      "title": "Cheat Sheet Clarifying Mask",
+      "price": 99,
+      "productType": "Face Mask",
+      "rating": "4.8 (46)",
+      "qty": 1
+    },
+    {
+      "id": 88,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-clarifying-mask-pack-of-6-12784634527827.jpg%3Fv%3D1619114589&w=256&q=75",
+      "title": "Cheat Sheet Clarifying Mask (Pack of 6)",
+      "price": 449,
+      "productType": "Face Mask",
+      "rating": "4.7 (7)",
+      "discount": "594",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 89,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCPorePurifyingMaskWBG-3.jpg%3Fv%3D1628610298&w=256&q=75",
+      "title": "Coffee Culture Pore Purifying Mask",
+      "price": 499,
+      "productType": "Face Mask",
+      "rating": "4.9 (8)",
+      "qty": 1
+    },
+    {
+      "id": 90,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-face-mask-12775752564819.jpg%3Fv%3D1619113688&w=256&q=75",
+      "title": "Charcoal Patrol Face Mask",
+      "price": 99,
+      "productType": "Face Mask",
+      "rating": "4.9 (72)",
+      "qty": 1
+    },
+    {
+      "id": 91,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-anti-aging-mask-12775753744467.jpg%3Fv%3D1619113715&w=256&q=75",
+      "title": "Cheat Sheet Anti-Aging Mask",
+      "price": 99,
+      "productType": "Face Mask",
+      "rating": "4.8 (51)",
+      "qty": 1
+    },
+    {
+      "id": 92,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-sugar-cheat-sheet-brightening-mask-12775754039379.jpg%3Fv%3D1619113729&w=256&q=75",
+      "title": "SUGAR Cheat Sheet Brightening Mask",
+      "price": 149,
+      "productType": "Face Mask",
+      "rating": "4.8 (29)",
+      "qty": 1
+    },
+    {
+      "id": 93,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-sugar-cheat-sheet-pore-care-mask-12775754563667.jpg%3Fv%3D1619113743&w=256&q=75",
+      "title": "SUGAR Cheat Sheet Pore Care Mask",
+      "price": 149,
+      "productType": "Face Mask",
+      "rating": "4.9 (9)",
+      "qty": 1
+    },
+    {
+      "id": 94,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-pore-care-mask-pack-of-6-12784627187795.jpg%3Fv%3D1619114552&w=256&q=75",
+      "title": "Cheat Sheet Pore Care Mask (Pack of 6)",
+      "price": 699,
+      "productType": "Face Mask",
+      "rating": "5 (1)",
+      "discount": "894",
+      "off": "(21% Off)",
+      "qty": 1
+    },
+    {
+      "id": 95,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-anti-aging-mask-pack-of-6-12784629776467.jpg%3Fv%3D1619114575&w=256&q=75",
+      "title": "Cheat Sheet Anti-Aging Mask (Pack of 6)",
+      "price": 449,
+      "productType": "Face Mask",
+      "rating": "4.9 (11)",
+      "discount": "594",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 96,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-face-mask-pack-of-6-12784634986579.jpg%3Fv%3D1619114602&w=256&q=75",
+      "title": "Charcoal Patrol Face Mask (Pack of 6)",
+      "price": 449,
+      "productType": "Face Mask",
+      "rating": "5 (6)",
+      "discount": "594",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 97,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-power-clay-peel-off-mask-13470537646163.jpg%3Fv%3D1619115274&w=256&q=75",
+      "title": "Power Clay Peel Off Mask",
+      "price": 249,
+      "productType": "Face Mask",
+      "rating": "4.7 (21)",
+      "discount": "449",
+      "off": "(50% Off)",
+      "qty": 1
+    },
+    {
+      "id": 98,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-power-clay-3-min-pore-cleansing-mask-13470539645011.jpg%3Fv%3D1619115283&w=256&q=75",
+      "title": "Power Clay 3-Min Pore Cleansing Mask",
+      "price": 249,
+      "productType": "Face Mask",
+      "rating": "4.6 (17)",
+      "discount": "449",
+      "off": "(50% Off)",
+      "qty": 1
+    },
+    {
+      "id": 99,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-acne-combo-pack-of-6-14056089157715.jpg%3Fv%3D1619113757&w=256&q=75",
+      "title": "Acne Combo (Pack of 6)",
+      "price": 559,
+      "productType": "Sheet Mask",
+      "rating": "5 (1)",
+      "discount": "744",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 100,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-total-mask-erade-pack-of-3-14056092074067.jpg%3Fv%3D1644930751&w=256&q=75",
+      "title": "Total Mask-erade (Pack of 3)",
+      "price": 229,
+      "productType": "Sheet Mask",
+      "rating": "4.9 (15)",
+      "discount": "397",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 101,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-get-unmasked-pack-of-3-14056092467283.jpg%3Fv%3D1619113899&w=256&q=75",
+      "title": "Get Unmasked (Pack of 3)",
+      "price": 229,
+      "productType": "Sheet Mask",
+      "rating": "4.8 (8)",
+      "discount": "397",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 102,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-the-clear-glow-pack-of-12-14056095613011.jpg%3Fv%3D1644585135&w=256&q=75",
+      "title": "The Clear Glow (Pack of 12)",
+      "price": 1149,
+      "productType": "Sheet Mask",
+      "discount": "1488",
+      "off": "(22% Off)",
+      "qty": 1
+    },
+    {
+      "id": 103,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-my-face-shields-pack-of-6-28122594541651.jpg%3Fv%3D1619113968&w=256&q=75",
+      "title": "My Face Shields (Pack of 6)",
+      "price": 599,
+      "productType": "Sheet Mask",
+      "discount": "744",
+      "off": "(19% Off)",
+      "rating": "4.8 (10)",
+      "qty": 1
+    },
+    {
+      "id": 104,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fmoisturiser.jpg%3Fv%3D1626968292&w=256&q=75",
+      "title": "Aquaholic Priming Moisturizer",
+      "price": 499,
+      "productType": "Moisturizer",
+      "rating": "4.7 (176)",
+      "qty": 1
+    },
+    {
+      "id": 105,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-daily-moisturizer-28038347292755.jpg%3Fv%3D1619155748&w=256&q=75",
+      "title": "Citrus Got Real Daily Moisturizer",
+      "price": 499,
+      "productType": "Moisturizer",
+      "rating": "4.9 (49)",
+      "qty": 1
+    },
+    {
+      "id": 106,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHyderattingkit.jpg%3Fv%3D1626968294&w=256&q=75",
+      "title": "Aquaholic Hydrating Stick",
+      "price": 899,
+      "productType": "Hydrating Stick",
+      "rating": "4.8 (59)",
+      "qty": 1
+    },
+    {
+      "id": 107,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_61109b87-1ae6-4cb4-8550-5b57d688a4eb.jpg%3Fv%3D1651852771&w=256&q=75",
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++",
+      "price": 599,
+      "productType": "Sunscreen",
+      "rating": "4.4 (5)",
+      "qty": 1
+    },
+    {
+      "id": 108,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e5df3bb8-4439-4980-ada2-aa90b126ada3.jpg%3Fv%3D1651852746&w=256&q=75",
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++ - 02 Pink Trippin 50g",
+      "price": 599,
+      "productType": "Sunscreen",
+      "rating": "4.0 (3)",
+      "qty": 1
+    },
+    {
+      "id": 109,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_547e9188-e44c-4cf7-a32e-fc0f410e8062.jpg%3Fv%3D1651852720&w=256&q=75",
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++ - 01 Gold Diggin 50g",
+      "price": 599,
+      "productType": "Sunscreen",
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 110,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-spf30-sunscreen-28038344736851.jpg%3Fv%3D1619155723&w=256&q=75",
+      "title": "Citrus Got Real SPF30 Sunscreen",
+      "price": 399,
+      "productType": "Sunscreen",
+      "rating": "4.7 (64)",
+      "qty": 1
+    },
+    {
+      "id": 111,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-cooling-stick-28037939429459.jpg%3Fv%3D1644409181&w=256&q=75",
+      "title": "Citrus Got Real Cooling Stick",
+      "price": 399,
+      "productType": "Cooling Stick",
+      "rating": "4.5 (40)",
+      "qty": 1
+    },
+    {
+      "id": 112,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-refreshing-mist-28037990842451.jpg%3Fv%3D1619155739&w=256&q=75",
+      "title": "Citrus Got Real Refreshing Mist",
+      "price": 499,
+      "productType": "Refreshing Mist",
+      "rating": "4.8 (22)",
+      "qty": 1
+    },
+    {
+      "id": 113,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FInstant-Pore-Cleansing-Mask-1_1.jpg%3Fv%3D1626423690&w=256&q=75",
+      "title": "Aquaholic Instant Pore Cleansing Mask",
+      "price": 499,
+      "productType": "Cleansing Mask",
+      "rating": "4.8 (11)",
+      "qty": 1
+    },
+    {
+      "id": 114,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHyaluronic-Serum-3_1.jpg%3Fv%3D1626423730&w=256&q=75",
+      "title": "Aquaholic Hyaluronic Serum",
+      "price": 499,
+      "productType": "Serum",
+      "rating": "4.9 (34)",
+      "qty": 1
+    },
+    {
+      "id": 115,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCBrighteningSerumWBG-3.jpg%3Fv%3D1628610327&w=256&q=75",
+      "title": "Coffee Culture Brightening Serum",
+      "price": 499,
+      "productType": "Serum",
+      "rating": "4.9 (17)",
+      "qty": 1
+    },
+    {
+      "id": 116,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F373532210-artboard-1.jpg%3Fv%3D1646149967&w=256&q=75",
+      "title": "Citrus Got Real Retinol Brightening Serum",
+      "price": 499,
+      "productType": "Serum",
+      "rating": "4.3 (8)",
+      "qty": 1
+    },
+    {
+      "id": 117,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHydrating-Primer-3.jpg%3Fv%3D1626423647&w=256&q=75",
+      "title": "Aquaholic Hydrating Primer",
+      "price": 699,
+      "productType": "Hydrating Primer",
+      "rating": "4.9 (25)",
+      "qty": 1
+    },
+    {
+      "id": 118,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCLipScrubWBG-3.jpg%3Fv%3D1628610315&w=256&q=75",
+      "title": "Coffee Culture Lip Scrub",
+      "price": 299,
+      "productType": "SCRUB",
+      "rating": "4.7 (45)",
+      "qty": 1
+    },
+    {
+      "id": 119,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAquaholic-Pore-Exfoliating-Scrub-3_1.jpg%3Fv%3D1626363966&w=256&q=75",
+      "title": "Aquaholic Pore Exfoliating Scrub",
+      "price": 399,
+      "productType": "SCRUB",
+      "rating": "4.9 (15)",
+      "qty": 1
+    },
+    {
+      "id": 120,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAquaholic-Extention-Spot-gel-2.jpg%3Fv%3D1626363976&w=256&q=75",
+      "title": "Aquaholic Clarifying Spot Gel",
+      "price": 399,
+      "productType": "Clarifying Spot Gel",
+      "rating": "4.7 (26)",
+      "qty": 1
+    },
+    {
+      "id": 121,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCEyeFirmingCreamWBG-3.jpg%3Fv%3D1628610287&w=256&q=75",
+      "title": "Coffee Culture Eye Firming Cream",
+      "price": 399,
+      "productType": "Firming Cream",
+      "rating": "4.9 (14)",
+      "qty": 1
+    },
+    {
+      "id": 122,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCLipScrubWBG-3.jpg%3Fv%3D1628610315&w=256&q=75",
+      "title": "Coffee Culture Lip Scrub",
+      "price": 299,
+      "productType": "Lip Scrub",
+      "rating": "4.7 (45)",
+      "qty": 1
+    },
+    {
+      "id": 123,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCBrighteningSerumWBG-3.jpg%3Fv%3D1628610327&w=256&q=75",
+      "title": "Coffee Culture Lip Scrub",
+      "price": 499,
+      "productType": "Brightening Serum",
+      "rating": "4.9 (17)",
+      "qty": 1
+    },
+    {
+      "id": 124,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F373532210-artboard-1.jpg%3Fv%3D1646149967&w=256&q=75",
+      "title": "Citrus Got Real Retinol Brightening Serum",
+      "price": 499,
+      "productType": "Brightening Serum",
+      "rating": "4.3 (8)",
+      "qty": 1
+    },
+    {
+      "id": 125,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_3cb613fc-43c8-4763-b3e6-5ccf4761c0d5.jpg%3Fv%3D1641570994&w=256&q=75",
+      "title": "Power Clay Mask Stick",
+      "price": 699,
+      "productType": "Clay Stick Mask",
+      "rating": "4.7 (17)",
+      "qty": 1
+    },
+    {
+      "id": 126,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCoffee-culture-hydrating-mist-01.jpg%3Fv%3D1644312897&w=256&q=75",
+      "title": "Coffee Culture Hydrating Mist",
+      "price": 499,
+      "productType": "Hydrating Mist",
+      "rating": "5 (6)",
+      "qty": 1
+    },
+    {
+      "id": 127,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F373515742-01.jpg%3Fv%3D1646235720&w=256&q=75",
+      "title": "Citrus Got Real Brightening Peel",
+      "price": 599,
+      "productType": "Brightening Peel",
+      "rating": "5 (5)",
+      "qty": 1
+    }
+  ],
+  "GiftingData": [
+    {
+      "id": 128,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-generic.jpg%3Fv%3D1662526833&w=256&q=75",
+      "title": "SUGAR Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 129,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-best-spouse.jpg%3Fv%3D1671628998&w=256&q=75",
+      "title": "Best Spouse Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 130,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-farewell.jpg%3Fv%3D1671629002&w=256&q=75",
+      "title": "Happy Farewell Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 131,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-bridesmaid-new-2.jpg%3Fv%3D1663231862&w=256&q=75",
+      "title": "Bridesmaid Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 132,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-merry-christmas.jpg%3Fv%3D1671542938&w=256&q=75",
+      "title": "Merry Christmas Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 133,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-happy-anniversary-New-2.jpg%3Fv%3D1663248300&w=256&q=75",
+      "title": "Happy Anniversary Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 134,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-I-love-you-mew-2.jpg%3Fv%3D1663248293&w=256&q=75",
+      "title": "I Love You Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 135,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FGift-card-best-friends-new-2.jpg%3Fv%3D1663232404&w=256&q=75",
+      "title": "Best Friends Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 136,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHappy-birthday-gift-card-new-2.jpg%3Fv%3D1663232174&w=256&q=75",
+      "title": "Happy Birthday Gift Card",
+      "price": 500,
+      "productType": "Gift Card",
+      "qty": 1
+    },
+    {
+      "id": 137,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FMatte-As-Hell-Crayon-Lipstick-Minis-Set---WBG-Images.jpg%3Fv%3D1666195222&w=256&q=75",
+      "title": "Matte As Hell Crayon Lipstick Minis Set",
+      "price": 1099,
+      "productType": "Gifts & Sets",
+      "discount": "1799",
+      "off": "(38% Off)",
+      "rating": "4.9 (282)",
+      "qty": 1
+    },
+    {
+      "id": 138,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-build-your-own-box-eye-spy-lips-don-t-lie-28128202784851.jpg%3Fv%3D1619100803&w=256&q=75",
+      "title": "Build Your Own Box (Eye Spy, Lips Don't Lie)",
+      "price": 3249,
+      "productType": "Gifts & Sets",
+      "discount": "4299",
+      "off": "(24% Off)",
+      "rating": "3.8 (4)",
+      "qty": 1
+    },
+    {
+      "id": 139,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950522073171.jpg%3Fv%3D1620652479&w=256&q=75",
+      "title": "Mini Liquid Lipstick Set - Adventurous",
+      "price": 799,
+      "productType": "Gifts & Sets",
+      "discount": "999",
+      "off": "(20% Off)",
+      "rating": "4.8 (21)",
+      "qty": 1
+    },
+    {
+      "id": 140,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mini-liquid-lipstick-set-fighter-27950526169171.jpg%3Fv%3D1620651933&w=256&q=75",
+      "title": "Mini Liquid Lipstick Set - Fighter",
+      "price": 799,
+      "productType": "Gifts & Sets",
+      "discount": "999",
+      "off": "(20% Off)",
+      "rating": "4.7 (29)",
+      "qty": 1
+    },
+    {
+      "id": 141,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG1_09f0cf83-792a-4185-8882-5e5e6909a459.jpg%3Fv%3D1657814596&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Power up your Pout",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "999",
+      "off": "(20% Off)",
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 142,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lip-balm-sheet-mask-15782913671251.jpg%3Fv%3D1619152222&w=256&q=75",
+      "title": "Lip balm + Sheet mask",
+      "price": 299,
+      "productType": "Value set",
+      "discount": "348",
+      "off": "(14% Off)",
+      "rating": "4.7 (22)",
+      "qty": 1
+    },
+    {
+      "id": 143,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F09_1.jpg%3Fv%3D1630597664&w=256&q=75",
+      "title": "Lip Balm + Mini Liquid Lipstick",
+      "price": 360,
+      "productType": "Value set",
+      "discount": "448",
+      "off": "(19% Off)",
+      "rating": "4.7 (18)",
+      "qty": 1
+    },
+    {
+      "id": 144,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F08.jpg%3Fv%3D1630511040&w=256&q=75",
+      "title": "Face Palette + Lip Balm",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "998",
+      "off": "(19% Off)",
+      "rating": "4.7 (15)",
+      "qty": 1
+    },
+    {
+      "id": 145,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e9ae62ba-cbb4-4957-955c-f88fc966468a.jpg%3Fv%3D1658419915&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Dramatic In Bolds",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "999",
+      "off": "(20% Off)",
+      "qty": 1
+    },
+    {
+      "id": 146,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F07_1.jpg%3Fv%3D1639568924&w=256&q=75",
+      "title": "Sheet Mask + Mini Liquid Lipstick",
+      "price": 319,
+      "productType": "Value set",
+      "discount": "398",
+      "off": "(19% Off)",
+      "rating": "4.8 (6)",
+      "qty": 1
+    },
+    {
+      "id": 147,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_a6f38af4-1877-4598-ae7a-f42f6051654e.jpg%3Fv%3D1658419929&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Rule in Red",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "999",
+      "off": "(20% Off)",
+      "qty": 1
+    },
+    {
+      "id": 148,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG1_2c8ba8c2-b425-434f-9f35-1293a3be6af9.jpg%3Fv%3D1657814606&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set- Pucker up in Nudes",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "999",
+      "off": "(20% Off)",
+      "qty": 1
+    },
+    {
+      "id": 149,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FSMNL-Mini-Box---Shades-of-Pink---WBG1.jpg%3Fv%3D1657814586&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Pretty In Pinks",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "999",
+      "off": "(20% Off)",
+      "qty": 1
+    },
+    {
+      "id": 150,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_1_1.jpg%3Fv%3D1667491601&w=256&q=75",
+      "title": "Triple Delight Makeup Set",
+      "price": 649,
+      "productType": "Value set",
+      "discount": "847",
+      "off": "(23% Off)",
+      "rating": "4.8 (5)",
+      "qty": 1
+    },
+    {
+      "id": 151,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F2_bb525208-246a-4f40-b57f-d88372708398.jpg%3Fv%3D1655308814&w=256&q=75",
+      "title": "Glam Eye Makeup Value Set",
+      "price": 1249,
+      "productType": "Value set",
+      "discount": "1546",
+      "off": "(19% Off)",
+      "qty": 1
+    },
+    {
+      "id": 152,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg%3Fv%3D1619119204&w=256&q=75",
+      "title": "Modern Matte Lipstick Value Set",
+      "price": 1149,
+      "productType": "Value set",
+      "discount": "1398",
+      "off": "(17% Off)",
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 153,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1.jpg%3Fv%3D1646298577&w=256&q=75",
+      "title": "Face Palette + Mini Liquid Lipstick value set",
+      "price": 849,
+      "productType": "Value set",
+      "discount": "1048",
+      "off": "(18% Off)",
+      "rating": "4.9 (28)",
+      "qty": 1
+    },
+    {
+      "id": 154,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e4b6c948-178e-4bfe-a3b3-926119dea615.jpg%3Fv%3D1649865681&w=256&q=75",
+      "title": "Set of 4 Kajal Set",
+      "price": 799,
+      "productType": "Value set",
+      "discount": "996",
+      "off": "(19% Off)",
+      "rating": "5 (3)",
+      "qty": 1
+    },
+    {
+      "id": 155,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-primer-highlighter-15350360965203.jpg%3Fv%3D1619124134&w=256&q=75",
+      "title": "Primer + Highlighter",
+      "price": 749,
+      "productType": "Value set",
+      "discount": "898",
+      "off": "(16% Off)",
+      "rating": "4.8 (29)",
+      "qty": 1
+    },
+    {
+      "id": 156,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-aquaholic-priming-moisturizer-contour-de-force-mini-blush-15782944243795.jpg%3Fv%3D1619152291&w=256&q=75",
+      "title": "Priming Moisturizer + Blush",
+      "price": 699,
+      "productType": "Value set",
+      "discount": "848",
+      "off": "(17% Off)",
+      "rating": "4.7 (13)",
+      "qty": 1
+    },
+    {
+      "id": 157,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-aquaholic-priming-moisturizer-smudge-me-not-liquid-lipstick-15782949191763.jpg%3Fv%3D1619152416&w=256&q=75",
+      "title": "Priming Moisturizer + Liquid Lipstick",
+      "price": 699,
+      "productType": "Value set",
+      "discount": "998",
+      "off": "(29% Off)",
+      "rating": "4.7 (11)",
+      "qty": 1
+    },
+    {
+      "id": 158,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FDiwaliPatakaMakeupKit-WBGImagesArtboard1copy14.jpg%3Fv%3D1665072357&w=256&q=75",
+      "title": "Diwali Pataka Makeup Kit",
+      "price": 2099,
+      "productType": "Kit",
+      "discount": "2546",
+      "off": "(17% Off)",
+      "qty": 1
+    },
+    {
+      "id": 159,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FVineeta_s-Favourite-Makeup-kit---WBG-images.jpg%3Fv%3D1669626013&w=256&q=75",
+      "title": "Vineeta's Favourite Makeup Kit",
+      "price": 2999,
+      "productType": "Kit",
+      "discount": "3894",
+      "off": "(22% Off)",
+      "qty": 1
+    },
+    {
+      "id": 160,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F383779802-summer-makeup-kit-wbg-images.jpg%3Fv%3D1649087039&w=256&q=75",
+      "title": "Summer Makeup Kit",
+      "price": 1799,
+      "productType": "Kit",
+      "discount": "2442",
+      "off": "(26% Off)",
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 161,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_37e8dc88-a720-44ed-a5f3-1e0f0e95bc17.jpg%3Fv%3D1659517990&w=256&q=75",
+      "title": "Date Night Makeup Kit",
+      "price": 1599,
+      "productType": "Kit",
+      "discount": "2193",
+      "off": "(27% Off)",
+      "rating": "4.6 (15)",
+      "qty": 1
+    },
+    {
+      "id": 162,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FLaunch---Sweat-No-More-Makeup-Kit---WBG-Images_11.jpg%3Fv%3D1653494527&w=256&q=75",
+      "title": "Sweat No More Makeup Kit",
+      "price": 2699,
+      "productType": "Kit",
+      "discount": "3593",
+      "off": "(24% Off)",
+      "rating": "5 (10)",
+      "qty": 1
+    },
+    {
+      "id": 163,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0ca61ef7-05ce-49be-9fa1-de7c41b99a1f.jpg%3Fv%3D1668050175&w=256&q=75",
+      "title": "Anniversary Kit",
+      "price": 1999,
+      "productType": "Kit",
+      "discount": "2793",
+      "off": "(28% Off)",
+      "rating": "4.9 (48)",
+      "qty": 1
+    },
+    {
+      "id": 164,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_172725a5-b5f9-4648-869a-4c05561a1f81.jpg%3Fv%3D1650023118&w=256&q=75",
+      "title": "9-in-1 Beauty Kit",
+      "price": 1999,
+      "productType": "Kit",
+      "discount": "3041",
+      "off": "(34% Off)",
+      "rating": "4.6 (114)",
+      "qty": 1
+    },
+    {
+      "id": 165,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0cbf7ca7-3b1c-4838-8fda-176ebd7d38fa.jpg%3Fv%3D1649423983&w=256&q=75",
+      "title": "Festive Ready Kit",
+      "price": 2499,
+      "productType": "Kit",
+      "discount": "3590",
+      "off": "(30% Off)",
+      "rating": "5 (9)",
+      "qty": 1
+    },
+    {
+      "id": 166,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_2cb6e30d-c2a5-43c3-9ec4-7d00350fc004.jpg%3Fv%3D1649346213&w=256&q=75",
+      "title": "Makeup Starter Kit",
+      "price": 1099,
+      "productType": "Kit",
+      "discount": "1445",
+      "off": "(23% Off)",
+      "rating": "4.6 (24)",
+      "qty": 1
+    },
+    {
+      "id": 167,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FPartyReadyKit-WBG1.png%3Fv%3D1642487420&w=256&q=75",
+      "title": "Party Ready kit",
+      "price": 1299,
+      "productType": "Kit",
+      "discount": "1744",
+      "off": "(25% Off)",
+      "rating": "4.8 (17)",
+      "qty": 1
+    },
+    {
+      "id": 168,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBridesMaid-Kit-WBG-1.jpg%3Fv%3D1654271913&w=256&q=75",
+      "title": "Bridesmaid Makeup Kit",
+      "price": 1399,
+      "productType": "Kit",
+      "discount": "1894",
+      "off": "(26% Off)",
+      "rating": "5 (1)",
+      "qty": 1
+    },
+    {
+      "id": 169,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FRakshaBandhanKit-WBGImages.jpg%3Fv%3D1654694624&w=256&q=75",
+      "title": "Everyday Makeup Kit",
+      "price": 1499,
+      "productType": "Kit",
+      "discount": "1994",
+      "off": "(24% Off)",
+      "rating": "4.8 (54)",
+      "qty": 1
+    },
+    {
+      "id": 170,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_969f5548-2c56-4506-ada8-159b53a8f630.jpg%3Fv%3D1649423977&w=256&q=75",
+      "title": "Glam Up Kit",
+      "price": 1999,
+      "productType": "Kit",
+      "discount": "2793",
+      "off": "(28% Off)",
+      "rating": "4.8 (13)",
+      "qty": 1
+    },
+    {
+      "id": 171,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F04_b475d6dd-c07b-43b0-9f78-c989b2fe4f6d.jpg%3Fv%3D1659446263&w=256&q=75",
+      "title": "Wedding Makeup Kit",
+      "price": 1699,
+      "productType": "Kit",
+      "discount": "2243",
+      "off": "(24% Off)",
+      "rating": "5 (19)",
+      "qty": 1
+    },
+    {
+      "id": 172,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F399160329-9-to-5-makeup-kit-wbg-01.jpg%3Fv%3D1654013564&w=256&q=75",
+      "title": "The Office Makeup Kit",
+      "price": 999,
+      "productType": "Kit",
+      "discount": "1346",
+      "off": "(25% Off)",
+      "rating": "5 (5)",
+      "qty": 1
+    },
+    {
+      "id": 173,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHi-5-KIT-WBG-Images1-SEP22.jpg%3Fv%3D1663689606&w=256&q=75",
+      "title": "Hi-5 Kit",
+      "price": 999,
+      "productType": "Kit",
+      "discount": "1295",
+      "off": "(22% Off)",
+      "rating": "4.7 (32)",
+      "qty": 1
+    },
+    {
+      "id": 174,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fcombo-image.jpg%3Fv%3D1646298736&w=256&q=75",
+      "title": "4-in-1 Makeup Set",
+      "price": 899,
+      "productType": "Kit",
+      "discount": "1146",
+      "off": "(21% Off)",
+      "rating": "5 (2)",
+      "qty": 1
+    },
+    {
+      "id": 175,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FMinimal-beauty-set-wbg-01.jpg%3Fv%3D1635349523&w=256&q=75",
+      "title": "Minimal Beauty Set",
+      "price": 1249,
+      "productType": "Kit",
+      "discount": "1647",
+      "off": "(24% Off)",
+      "rating": "5 (5)",
+      "qty": 1
+    },
+    {
+      "id": 176,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F448725743-christmas-makeup-kit-wbg-main-image.jpg%3Fv%3D1669728324&w=256&q=75",
+      "title": "Christmas Makeup Kit",
+      "price": 1999,
+      "productType": "Kit",
+      "discount": "2394",
+      "off": "(16% Off)",
+      "qty": 1
+    },
+    {
+      "id": 177,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FSUGAR-SETS-WBG-IMAGES-Set2.jpg%3Fv%3D1632844196&w=256&q=75",
+      "title": "Go Getter Set",
+      "price": 999,
+      "productType": "Kit",
+      "discount": "1296",
+      "off": "(22% Off)",
+      "rating": "5 (8)",
+      "qty": 1
+    },
+    {
+      "id": 178,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255703635.jpg%3Fv%3D1620652654&w=256&q=75",
+      "title": "Mini Liquid Lipstick Set - Fearless",
+      "price": 799,
+      "productType": "Kit",
+      "discount": "999",
+      "off": "(20% Off)",
+      "rating": "4.5 (20)",
+      "qty": 1
+    }
+  ],
+  "Offers": [
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/8190f8f2-8ca2-4455-a890-e1811f5a6f73.jpg",
+      "cupanId": "GDMSST"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/ed792adb-3c46-4037-9362-8ec4a21c48a1.jpg",
+      "cupanId": "GDMDD"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/ed792adb-3c46-4037-9362-8ec4a21c48a1.jpg",
+      "cupanId": "GDMSA"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/92a53a7e-345e-47b6-ac3d-0bd30f1bfe80.jpg",
+      "cupanId": "GJ23MBB"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/cb5cf169-d775-4acd-91db-4465bdc357e7.jpg",
+      "cupanId": "G23JSTP"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/b828eabb-71aa-4d6e-b864-ac6d86ce1870.jpg",
+      "cupanId": "GDMSWS"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/3fa27f75-9af2-43f8-bfeb-b7a8d7f6cb99.jpg",
+      "cupanId": "GJ23MPP"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/e3732404-e3c8-43b9-b7bd-ff9d39f95db9.jpg",
+      "cupanId": "G23J3999"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/5f14b915-7db6-4927-91da-a4c55de08446.jpg",
+      "cupanId": "G23J2999"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/31cc2fb6-3c7b-4285-bc17-4abb5546d9c3.jpg",
+      "cupanId": "G23J4999"
+    },
+    {
+      "img": "https://d32baadbbpueqt.cloudfront.net/Promotion/97183f1f-b588-4e74-b993-b753533808a0.jpg",
+      "cupanId": "SUGARNEW"
+    }
+  ],
+  "recentView": [
+    {
+      "id": 179,
+      "img": "",
+      "title": "Vineeta's Favourite Makeup Kitt",
+      "price": "2999",
+      "discount": 3894,
+      "off": "(22% Off)",
+      "qty": 1
+    },
+    {
+      "id": 180,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_bf17a76c-096c-47c4-ab6a-113c04b43213.jpg%3Fv%3D1644593898&w=256&q=75",
+      "title": "Matte Attack Transferproof Lipstick",
+      "price": 699,
+      "qty": 1
+    },
+    {
+      "id": 181,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBrighteningPrimer.jpg%3Fv%3D1666886739&w=256&q=75",
+      "title": "SUGAR Prime Sublime Primer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 182,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-3-min.jpg%3Fv%3D1627573657&w=256&q=75",
+      "title": "Blend Trend Eyeshadow Brush - 042 Round",
+      "price": 399,
+      "qty": 1
+    },
+    {
+      "id": 183,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBrighteningPrimer.jpg%3Fv%3D1666886739&w=256&q=75",
+      "title": "SUGAR Prime Sublime Primer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 184,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FBlend-Trend-WBG-images-3-min.jpg%3Fv%3D1627573657&w=256&q=75",
+      "title": "Blend Trend Eyeshadow Brush - 042 Round",
+      "price": 399,
+      "qty": 1
+    },
+    {
+      "id": 185,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FDiwaliPatakaMakeupKit-WBGImagesArtboard1copy14.jpg%3Fv%3D1665072357&w=256&q=75",
+      "title": "Diwali Pataka Makeup Kit",
+      "price": "2099",
+      "discount": 2546,
+      "off": "(17% Off)",
+      "qty": 1
+    },
+    {
+      "id": 186,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg%3Fv%3D1657257149&w=256&q=75",
+      "title": "Base Of Glory Pore Minimizing Primer",
+      "price": 799,
+      "qty": 1
+    }
+  ],
+  "merchStation": [
+    {
+      "id": 187,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-obsessive-compulsive-case-organizer-28508036235347.jpg%3Fv%3D1624981425&w=256&q=75",
+      "title": "Obsessive Compulsive Case Organizer",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 188,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-glampacker-duffle-bag-28150649978963.jpg%3Fv%3D1619156211&w=256&q=75",
+      "title": "Glampacker Duffle Bag",
+      "price": 999,
+      "qty": 1
+    },
+    {
+      "id": 189,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-money-maker-envelope-wallet-black-28490557358163.jpg%3Fv%3D1624954703&w=256&q=75",
+      "title": "Money Maker Envelope Wallet - Black",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 190,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-money-maker-envelope-wallet-grey-28490559979603.jpg%3Fv%3D1624953191&w=256&q=75",
+      "title": "Money Maker Envelope Wallet - Grey",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 191,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FD2C---Merch---Laptop-Sleeves_1.jpg%3Fv%3D1625240618&w=256&q=75",
+      "title": "Easy PC Laptop Sleeve",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 192,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-serial-sipper-watter-bottle-28150768205907-New.jpg%3Fv%3D1665504211&w=256&q=75",
+      "title": "Serial Sipper Water Bottle",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 193,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-always-ahead-adjustable-cap-28516708352083.jpg%3Fv%3D1625067752&w=256&q=75",
+      "title": "Always Ahead Adjustable Cap",
+      "price": 399,
+      "qty": 1
+    },
+    {
+      "id": 194,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-grip-trip-pop-socket-gradient-blue-28150962454611.jpg%3Fv%3D1619156250&w=256&q=75",
+      "title": "Grip Trip Pop Socket",
+      "price": 99,
+      "qty": 1
+    }
+  ],
+  "skinCare": [
+    {
+      "id": 195,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCLipScrubWBG-3.jpg%3Fv%3D1628610315&w=256&q=75",
+      "title": "Coffee Culture Lip Scrub",
+      "price": 299,
+      "qty": 1
+    },
+    {
+      "id": 196,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCoffee-culture-cleansing-balm-stick-01.jpg%3Fv%3D1643375708&w=256&q=75",
+      "title": "Coffee Culture Cleansing Balm Stick",
+      "price": 699,
+      "qty": 1
+    },
+    {
+      "id": 197,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fmoisturiser.jpg%3Fv%3D1626968292&w=256&q=75",
+      "title": "Aquaholic Priming Moisturizer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 198,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_61109b87-1ae6-4cb4-8550-5b57d688a4eb.jpg%3Fv%3D1651852771&w=256&q=75",
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 199,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fmoisturiser.jpg%3Fv%3D1626968292&w=256&q=75",
+      "title": "Aquaholic Priming Moisturizer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 201,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_3cb613fc-43c8-4763-b3e6-5ccf4761c0d5.jpg%3Fv%3D1641570994&w=256&q=75",
+      "title": "Power Clay Mask Stick",
+      "price": 699,
+      "qty": 1
+    },
+    {
+      "id": 202,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHyaluronic-Serum-3_1.jpg%3Fv%3D1626423730&w=256&q=75",
+      "title": "Aquaholic Hyaluronic Serum",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 203,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-daily-moisturizer-28038347292755.jpg%3Fv%3D1619155748&w=256&q=75",
+      "title": "Citrus Got Real Daily Moisturizer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 204,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_3cb613fc-43c8-4763-b3e6-5ccf4761c0d5.jpg%3Fv%3D1641570994&w=256&q=75",
+      "title": "Power Clay Mask Stick",
+      "price": 699,
+      "qty": 1
+    },
+    {
+      "id": 205,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHyaluronic-Serum-3_1.jpg%3Fv%3D1626423730&w=256&q=75",
+      "title": "Aquaholic Hyaluronic Serum",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 206,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-daily-moisturizer-28038347292755.jpg%3Fv%3D1619155748&w=256&q=75",
+      "title": "Citrus Got Real Daily Moisturizer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 207,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-clarifying-mask-12775754203219.jpg%3Fv%3D1619113702&w=256&q=75",
+      "title": "Cheat Sheet Clarifying Mask",
+      "price": 99,
+      "qty": 1
+    }
+  ],
+  "superSaver": [
+    {
+      "id": 208,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg%3Fv%3D1619119204&w=256&q=75",
+      "title": "Modern Matte Lipstick Value Set",
+      "price": 1149,
+      "discount": "1398",
+      "off": "(17% Off)",
+      "qty": 1
+    },
+    {
+      "id": 209,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FValue-Set-11---WBG-Images_1.jpg%3Fv%3D1659456262&w=256&q=75",
+      "title": "Bold Honesty Face Makeup Value Set",
+      "price": 699,
+      "discount": "797",
+      "off": "(12% Off)",
+      "qty": 1
+    },
+    {
+      "id": 210,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F2_bb525208-246a-4f40-b57f-d88372708398.jpg%3Fv%3D1655308814&w=256&q=75",
+      "title": "Glam Eye Makeup Value Set",
+      "price": 1249,
+      "discount": "1546",
+      "off": "(19% Off)",
+      "qty": 1
+    },
+    {
+      "id": 211,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F08.jpg%3Fv%3D1630511040&w=256&q=75",
+      "title": "Face Palette + Lip Balm",
+      "price": 799,
+      "discount": "998",
+      "off": "(19% Off)",
+      "qty": 1
+    },
+    {
+      "id": 212,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F08.jpg%3Fv%3D1630511040&w=256&q=75",
+      "title": "Face Palette + Lip Balm",
+      "price": 799,
+      "discount": "998",
+      "off": "(19% Off)",
+      "qty": 1
+    },
+    {
+      "id": 213,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG1_73e85cb4-80d8-4eeb-ba32-deaf11c4483f.jpg%3Fv%3D1658851292&w=256&q=75",
+      "title": "Blushin' & Poppin' Value Set",
+      "price": 1149,
+      "discount": "1298",
+      "off": "(11% Off)",
+      "qty": 1
+    },
+    {
+      "id": 214,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lip-balm-sheet-mask-15782913671251.jpg%3Fv%3D1619152222&w=256&q=75",
+      "title": "Lip balm + Sheet mask",
+      "price": 299,
+      "discount": "348",
+      "off": "(14% Off)",
+      "qty": 1
+    },
+    {
+      "id": 215,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG_648fe1ef-ce38-46b9-983f-2ca69fba5806.jpg%3Fv%3D1659369810&w=256&q=75",
+      "title": "Matte The Base Value Set",
+      "price": 1749,
+      "discount": "2098",
+      "off": "(16% Off)",
+      "qty": 1
+    }
+  ],
+  "gifting": [
+    {
+      "id": 216,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F399160329-9-to-5-makeup-kit-wbg-01.jpg%3Fv%3D1654013564&w=256&q=75",
+      "title": "The Office Makeup Kit",
+      "price": 999,
+      "discount": "1346",
+      "off": "(25% Off)",
+      "qty": 1
+    },
+    {
+      "id": 217,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F04_b475d6dd-c07b-43b0-9f78-c989b2fe4f6d.jpg%3Fv%3D1659446263&w=256&q=75",
+      "title": "Wedding Makeup Kit",
+      "price": 1699,
+      "discount": "2243",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 218,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG1_09f0cf83-792a-4185-8882-5e5e6909a459.jpg%3Fv%3D1657814596&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Power up your Pout",
+      "price": 799,
+      "discount": "999",
+      "off": "(20% Off)",
+      "qty": 1
+    },
+    {
+      "id": 219,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_37e8dc88-a720-44ed-a5f3-1e0f0e95bc17.jpg%3Fv%3D1659517990&w=256&q=75",
+      "title": "Date Night Makeup Kit",
+      "price": 1599,
+      "discount": "2193",
+      "off": "(27% Off)",
+      "qty": 1
+    },
+    {
+      "id": 220,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0cbf7ca7-3b1c-4838-8fda-176ebd7d38fa.jpg%3Fv%3D1649423983&w=256&q=75",
+      "title": "Festive Ready Kit",
+      "price": 2499,
+      "discount": "3590",
+      "off": "(30% Off)",
+      "qty": 1
+    },
+    {
+      "id": 221,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FRakshaBandhanKit-WBGImages.jpg%3Fv%3D1654694624&w=256&q=75",
+      "title": "Everyday Makeup Kit",
+      "price": 1499,
+      "discount": "1994",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 222,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0ca61ef7-05ce-49be-9fa1-de7c41b99a1f.jpg%3Fv%3D1668050175&w=256&q=75",
+      "title": "Anniversary Kit",
+      "price": 1999,
+      "discount": "2793",
+      "off": "(28% Off)",
+      "qty": 1
+    },
+    {
+      "id": 223,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FPartyReadyKit-WBG1.png%3Fv%3D1642487420&w=256&q=75",
+      "title": "Party Ready kit",
+      "price": 1299,
+      "discount": "1744",
+      "off": "(25% Off)",
+      "qty": 1
+    }
+  ],
+  "Buynow": [
+    {
+      "id": 224,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FVineeta_s-Favourite-Makeup-kit---WBG-images.jpg%3Fv%3D1669626013&w=256&q=75",
+      "title": "Vineeta's Favourite Makeup Kit",
+      "price": 2999,
+      "discount": "3894",
+      "off": "(22% Off)",
+      "qty": 1
+    },
+    {
+      "id": 225,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FLaunch---Sweat-No-More-Makeup-Kit---WBG-Images_11.jpg%3Fv%3D1653494527&w=256&q=75",
+      "title": "Sweat No More Makeup Kit",
+      "price": 2699,
+      "discount": "3593",
+      "off": "(24% Off)",
+      "qty": 1
+    },
+    {
+      "id": 226,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0cbf7ca7-3b1c-4838-8fda-176ebd7d38fa.jpg%3Fv%3D1649423983&w=256&q=75",
+      "title": "Festive Ready Kit",
+      "price": 2499,
+      "discount": "3590",
+      "off": "(30% Off)",
+      "qty": 1
+    },
+    {
+      "id": 227,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_0ca61ef7-05ce-49be-9fa1-de7c41b99a1f.jpg%3Fv%3D1668050175&w=256&q=75",
+      "title": "Anniversary Kit",
+      "pice": 1999,
+      "discount": "2793",
+      "off": "(28% Off)",
+      "qty": 1
+    },
+    {
+      "id": 228,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_969f5548-2c56-4506-ada8-159b53a8f630.jpg%3Fv%3D1649423977&w=256&q=75",
+      "title": "Glam Up Kit",
+      "pice": 1999,
+      "discount": "2793",
+      "off": "(28% Off)",
+      "qty": 1
+    },
+    {
+      "id": 229,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F430185524-value-set-29-wbg_main_image.jpg%3Fv%3D1664294939&w=256&q=75",
+      "title": "Makeup In Focus Value Set",
+      "pice": 2299,
+      "discount": "2696",
+      "off": "(14% Off)",
+      "qty": 1
+    },
+    {
+      "id": 230,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F429324691-value-set-27-wbg_main_image.jpg%3Fv%3D1664294900&w=256&q=75",
+      "title": "All Day Beauty Essentials Set",
+      "price": 2099,
+      "discount": "2496",
+      "off": "(15% Off)",
+      "qty": 1
+    },
+    {
+      "id": 231,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F419424297-value-set-16-wbg-01.jpg%3Fv%3D1661530291&w=256&q=75",
+      "title": "Set It Right Makeup Set",
+      "price": 1999,
+      "discount": "2397",
+      "off": "(16% Off)",
+      "qty": 1
+    }
+  ],
+  "Justin": [
+    {
+      "id": 232,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6a5fa1af-0d0e-4e9e-85d1-579495fb5030.jpg%3Fv%3D1648482145&w=256&q=75",
+      "title": "Arch Arrival Micro Brow Pencil",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 233,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F383779802-summer-makeup-kit-wbg-images.jpg%3Fv%3D1649087039&w=256&q=75",
+      "title": "Summer Makeup Kit",
+      "price": 1799,
+      "qty": 1
+    },
+    {
+      "id": 234,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FDiwaliPatakaMakeupKit-WBGImagesArtboard1copy14.jpg%3Fv%3D1665072357&w=256&q=75",
+      "title": "Diwali Pataka Makeup Kit",
+      "price": 2099,
+      "qty": 1
+    },
+    {
+      "id": 235,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FDouble-Date-Extreme-Volume-Mascara-Powered-by-Images-1025x1400-1.jpg%3Fv%3D1636386431&w=256&q=75",
+      "title": "Double Date Extreme Volume Mascara Duo - 01 Blackjack",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 236,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F448725743-christmas-makeup-kit-wbg-main-image.jpg%3Fv%3D1669728324&w=256&q=75",
+      "title": "Christmas Makeup Kit",
+      "price": 1999,
+      "qty": 1
+    },
+    {
+      "id": 237,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FSUGAR-Prime-Sublime-Primer---Powered-By-Images1_ebe7ea59-dff5-4a2a-9a70-c94435d3f46e.jpg%3Fv%3D1666928973&w=256&q=75",
+      "title": "SUGAR Prime Sublime Primer",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 238,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F439876297-01.jpg%3Fv%3D1669621110&w=256&q=75",
+      "title": "Eyes Eyes Baby Gel Eyeliner - Esmeralda",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 239,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FVineeta_s-Favourite-Makeup-kit---WBG-images.jpg%3Fv%3D1657555460&w=256&q=75",
+      "title": "Vineeta's Favourite Makeup Kit",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 240,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_2d186f9b-9024-4e23-a0d2-a55b7671e89c.jpg%3Fv%3D1657123108&w=256&q=75",
+      "title": "Contour De Force Eyes And Face Palette",
+      "price": 1099,
+      "qty": 1
+    },
+    {
+      "id": 241,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FMonsoon-Makeup-Kit---WBG-Images_1_1.jpg%3Fv%3D1666109870&w=256&q=75",
+      "title": "Monsoon Makeup Kit",
+      "price": 1799,
+      "qty": 1
+    },
+    {
+      "id": 242,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F399160329-9-to-5-makeup-kit-wbg-01.jpg%3Fv%3D1654013564&w=256&q=75",
+      "title": "The Office Makeup Kit",
+      "price": 999,
+      "qty": 1
+    },
+    {
+      "id": 243,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F2_d5e8f5f6-db6f-43d4-a1ac-1da7b22fdc1b.jpg%3Fv%3D1652943021&w=256&q=75",
+      "title": "The Most Eligiblur Correcting Primer",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 244,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_61109b87-1ae6-4cb4-8550-5b57d688a4eb.jpg%3Fv%3D1651852771&w=256&q=75",
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 245,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FLaunch---Sweat-No-More-Makeup-Kit---WBG-Images_11.jpg%3Fv%3D1653494527&w=256&q=75",
+      "title": "Sweat No More Makeup Kit",
+      "price": 2699,
+      "qty": 1
+    },
+    {
+      "id": 246,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_9909d205-c5f9-476d-9903-c4beffbfebb7.jpg%3Fv%3D1637068160&w=256&q=75",
+      "title": "Arch Arrival Brow Pen",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 247,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6a5fa1af-0d0e-4e9e-85d1-579495fb5030.jpg%3Fv%3D1648482145&w=256&q=75",
+      "title": "Arch Arrival Micro Brow Pencil",
+      "price": 499,
+      "qty": 1
+    }
+  ],
+  "BestSeller": [
+    {
+      "id": 248,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_529c20ee-c872-4029-9702-8580d7b9a66f.jpg%3Fv%3D1640178644&w=256&q=75",
+      "title": "Ace Of Face Foundation Stick",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 249,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FWBG1_09f0cf83-792a-4185-8882-5e5e6909a459.jpg%3Fv%3D1657814596&w=256&q=75",
+      "title": "Smudge Me Not Mini Liquid Lipstick Set - Power up your Pout",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 250,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg%3Fv%3D1657257149&w=256&q=75",
+      "title": "Base Of Glory Pore Minimizing Primer",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 251,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_6f55bcac-3e42-4253-88ee-cec0fa43c62a.jpg%3Fv%3D1645608270&w=256&q=75",
+      "title": "Matte Attack Transferproof Lipstick",
+      "price": 699,
+      "qty": 1
+    },
+    {
+      "id": 252,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F424092031-1.jpg%3Fv%3D1661529396&w=256&q=75",
+      "title": "Wingman Waterproof Microliner - 01 I'll Be Black (Black)",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 253,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_51afaa84-af89-42b5-bdb8-a51b01257bc0.jpg%3Fv%3D1639582607&w=256&q=75",
+      "title": "Contour De Force Face Palette",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 254,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F01.jpg%3Fv%3D1644399711&w=256&q=75",
+      "title": "Kohl Of Honour Intense Kajals",
+      "price": 249,
+      "qty": 1
+    },
+    {
+      "id": 255,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644813116&w=256&q=75",
+      "title": "Air Kiss Powder Lipstick",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 256,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13825383923795.jpg%3Fv%3D1619116453&w=256&q=75",
+      "title": "Face Fwd >> Contour Stick - 01 Fawn First (Milk Chocolate Brown)",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 257,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F01_d6ffec78-c2b6-4466-8672-233fee0285a8.jpg%3Fv%3D1644394232&w=256&q=75",
+      "title": "Matte As Hell Crayon Lipstick",
+      "price": 849,
+      "qty": 1
+    },
+    {
+      "id": 258,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F3_7.jpg%3Fv%3D1626795160&w=256&q=75",
+      "title": "All Set To Go Translucent Powder",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 259,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12796432941139.jpg%3Fv%3D1619114695&w=256&q=75",
+      "title": "Goddess Of Flawless SPF30+ BB Cream",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 260,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12796432941139.jpg%3Fv%3D1619114695&w=256&q=75",
+      "title": "Goddess Of Flawless SPF30+ BB Cream",
+      "price": 799,
+      "qty": 1
+    },
+    {
+      "id": 261,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-12775602356307.jpg%3Fv%3D1619106501&w=256&q=75",
+      "title": "Dream Cover SPF15 Mattifying Compact",
+      "price": 499,
+      "qty": 1
+    },
+    {
+      "id": 262,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F382512089-mettle-priming-balm-01.jpg%3Fv%3D1648654861&w=256&q=75",
+      "title": "Mettle Priming Balm",
+      "price": 1099,
+      "qty": 1
+    },
+    {
+      "id": 263,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-all-set-to-go-banana-powder-13289662218323.jpg%3Fv%3D1619115199&w=256&q=75",
+      "title": "All Set To Go Banana Powder",
+      "price": 599,
+      "qty": 1
+    },
+    {
+      "id": 264,
+      "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28391223263315.jpg%3Fv%3D1623073552&w=256&q=75",
+      "title": "Rage For Coverage 24Hr Foundation",
+      "price": 799,
+      "qty": 1
+    }
+  ],
+  "Cart": [
+    
+  ]
+}

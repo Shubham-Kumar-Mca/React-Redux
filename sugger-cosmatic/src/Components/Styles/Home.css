@@ -1,0 +1,781 @@
+    .mainSlider {
+        width: 100%;
+        height: 340px;
+    }
+
+    .CaresoleImage {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+
+    }
+
+    .Arrow {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 50px;
+        top: -180px;
+    }
+
+    .arr {
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        background-color: rgba(0, 0, 0, .5);
+        cursor: pointer;
+    }
+
+    .Dot {
+        cursor: pointer;
+        position: relative;
+        top: -20px;
+    }
+
+    /*BESTSELLER START*/
+    .bestSeller {
+        margin-top: 90px;
+    }
+
+    .bestS {
+        background-image: url("https://media.sugarcosmetics.com/upload/homePageBackGroundTexture.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 2.5rem;
+
+    }
+
+
+    .title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+
+    }
+
+    .hrIS {
+        width: 3%;
+        opacity: 1;
+        border-top: 2px solid #fc2779;
+        color: #fc2779;
+    }
+
+    .me-3 {
+        margin-right: 1rem !important;
+    }
+
+    .ms-3 {
+        margin-left: 1rem !important;
+    }
+
+    hr {
+        margin: 1rem 0;
+        color: inherit;
+        background-color: currentColor;
+        border: 0;
+        opacity: .25;
+    }
+
+    .product {
+        margin: auto;
+        margin-top: 1.5rem;
+        width: 90%;
+    }
+
+    .EachProduct {
+        background-color: #fff;
+        border-radius: 15px;
+        padding-bottom: 20px;
+        margin-right: 10px;
+        box-shadow: 0 0 2px 0px gray;
+       
+    }
+    
+
+    .padding {
+        padding: 0 50px;
+        margin-bottom: 2rem;
+    }
+
+    .px-50 {
+        padding: 0 50px;
+    }
+
+    .EachProduct div img {
+        width: 100%;
+        height: 200px;
+        border-radius: 15px;
+    }
+
+    .EachProduct .description {
+        margin-top: .5rem;
+        height: 70px;
+
+    }
+
+    .desc {
+        margin-top: .5rem;
+    }
+
+    .btnPart,
+    .Btnpart {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .btnPart div button {
+        padding: 15px 30px;
+        cursor: pointer;
+        font-size: 15px;
+        border: none;
+        background-color: black;
+        color: #fff;
+        border-radius: 5px;
+    }
+
+    .add {
+        height: 45px;
+        padding: 15px 40px;
+        max-height: 45px;
+        border: none;
+        background-color: black;
+        color: #fff;
+        border-radius: 5px;
+    }
+
+    .heart {
+        border: 1px solid black;
+        border-radius: 10px;
+        padding: 7px 10px;
+        cursor: pointer;
+        font-size: 30px;
+        display: flex;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    .text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        margin-bottom: 15px;
+    }
+
+    .mlr {
+        margin: 0 20px;
+    }
+
+    /*BESTSELLER END*/
+
+
+    /*Hot Deals Start*/
+    .hotDeals {
+        margin-top: 4rem;
+    }
+
+    .clor-bl {
+        color: black;
+        font-size: 20px;
+    }
+
+    .HotDeals {
+        width: 95%;
+        margin: 2rem auto;
+    }
+
+    .imgageDiv {
+        margin: 0 20px;
+    }
+
+    .imgageDiv img {
+        border-radius: 10px;
+    }
+
+    /*Hot Deals End*/
+
+    /*Just In Start*/
+    .JustIn {
+        width: 80%;
+        margin: 2rem auto;
+
+    }
+    .JustIn .h{
+        height: 50px;
+    }
+
+    .slick-slide>div {
+        margin: 0 10px;
+    }
+
+    .slick-list {
+        margin: 0 -10px;
+    }
+
+    .btnPart .f-size {
+        font-size: 11px;
+    }
+
+    .rupyaSymbole {
+        font-weight: normal;
+        font-size: 12px;
+    }
+
+    .off {
+        font-size: 13px;
+        font-weight: bold;
+        color: #fc2779;
+    }
+    .priceSect{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 18px;
+    }
+
+    /*Just In End*/
+
+
+    /*Shukar Hai Start*/
+    .shukarHai {
+        width: 85%;
+        margin: auto;
+        margin-bottom: 2rem;
+    }
+
+    .SukarHai {
+        margin-top: 2rem;
+    }
+
+    .SukarHai img {
+        min-width: 100%;
+        max-width: 100%;
+        min-height: 100%;
+        max-height: 100%;
+        margin: auto;
+        display: block;
+        height: 400px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .ReferYouFrd img {
+        min-width: 100%;
+        max-width: 100%;
+        min-height: 100%;
+        max-height: 100%;
+        margin: auto;
+        display: block;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+
+    /*Shukar Hai End*/
+
+    .thisWeek {
+        width: 95%;
+        margin: 2rem auto;
+    }
+
+    .PriceSection {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 30px;
+        /* height: 60px; */
+    }
+    .rat{
+        border: 1px solid red;
+    }
+
+    .mt-2 {
+        margin-top: 2rem;
+    }
+
+    .referYouFrd {
+        width: 90%;
+        margin: 0 auto 2rem;
+    }
+
+    /* Super Saver Start*/
+    .Super-savers {
+        margin: 5rem 0;
+    }
+
+    .Super-BgImage {
+        background-image: url("https://media.sugarcosmetics.com/upload/VTOBackgroungTexture.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 2.5rem;
+    }
+
+    /* Super Saver End*/
+    .newly-Launch {
+        margin: 0 0 2rem 0;
+    }
+
+    .newlyLaunch {
+        width: 95%;
+        margin: 2rem auto;
+        height: 300px;
+        border-radius: 10px;
+    }
+
+    .thisOrThat {
+        margin: 4rem 0 2rem;
+    }
+
+    .This {
+        width: 95%;
+        margin: 2rem auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .This div img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+
+    .foot {
+        padding: 0 2.5rem;
+    }
+
+    hr:not([size]) {
+        height: 1px;
+    }
+
+    .onlyHr {
+        border: 1px solid #bdbdbd;
+        opacity: .25;
+    }
+
+    .about {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+    }
+
+    .py-3 {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+
+    .mt-3 {
+        margin-top: 1rem !important;
+    }
+
+    .about div {
+        font-size: 16px;
+        line-height: 19px;
+        color: #212121;
+        text-transform: uppercase;
+    }
+
+    .arrowIcon {
+        font-size: 1.25rem;
+        width: 1em;
+        height: 1em;
+        display: inline-block;
+        color: #fc2779;
+    }
+
+    .recentView {
+        width: 80%;
+        margin: 2rem auto;
+    }
+
+
+    /* Footer Start*/
+    .footerF {
+        background-image: url("https://in.sugarcosmetics.com/desc-images/Rectangle_background.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+        padding-top: 2rem;
+    }
+
+    .fz {
+        font-size: 30px;
+    }
+
+    .footer_desktop_static_line__1r4FT {
+        padding-top: 14px;
+        margin: auto;
+        text-align: center;
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .footer_desktop_subscribe__qoHC_ {
+        width: 100%;
+        text-align: center;
+        padding: 25px;
+    }
+
+    .footer_desktop_subscribe__qoHC_>input {
+        width: 580px;
+        height: 44px;
+        border: .5px solid #999;
+        border-radius: 8px 0 0 8px;
+        outline: none;
+        caret-color: #fc2779;
+        /*Cursor solor inside inputBox*/
+        text-align: left;
+    }
+
+    .px-3 {
+        padding-right: 1rem !important;
+        padding-left: 1rem !important;
+    }
+
+    .footer_desktop_subscribe__qoHC_>button {
+        background-color: #000;
+        color: #fff;
+        font-size: 16px;
+        width: 134px;
+        height: 43px;
+        border-radius: 0 8px 8px 0;
+        cursor: pointer;
+    }
+
+    /*main footer Start*/
+    .mainFooter {
+        background-color: #000;
+        display: block;
+        margin-top: 0.5rem;
+    }
+
+    .px-5 {
+        padding-right: 3rem !important;
+        padding-left: 3rem !important;
+    }
+
+    .footer_main {
+        background-color: #000;
+        width: 100%;
+    }
+
+    .footer_circle {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, -45%);
+        height: 150px;
+        width: 130px;
+        border-radius: 150px 150px 0 0;
+        background-color: #000;
+
+    }
+
+    .footer_desktop_sugar_icon__ibIzU {
+        position: relative;
+        width: 150px;
+        height: 124px;
+        margin-left: -7%;
+        margin-top: 13%;
+        vertical-align: middle;
+    }
+
+    .parentInfo {
+        padding-top: 1.5rem;
+        padding-right: 3rem;
+        padding-left: 3rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .inFo {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .col-8 {
+        width: 66.66666667%;
+    }
+
+    .info_content a {
+        color: #ffffff;
+        font-size: 18px;
+    }
+
+    .footer_desktop_rounded_circle__feah_ {
+        height: 28px;
+        width: 28px;
+        background-color: #969696;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    .px-1 {
+        padding-right: .25rem !important;
+        padding-left: .25rem !important;
+    }
+
+    .social_icons {
+        width: 225px;
+        margin: auto;
+        margin-top: -60px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .BorderTop {
+        border-top: 1px solid #999999;
+    }
+
+    .pad {
+        padding-top: 1.5rem;
+        padding-right: 3rem;
+        padding-left: 3rem;
+    }
+
+    .getInTouch {
+        color: #fff;
+        font-size: 24px;
+        text-align: left;
+    }
+
+    .insideGetInTouch {
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+    .mail_link {
+        color: #969696;
+        text-decoration: none;
+        font-size: 18px;
+
+    }
+
+    .info_content {
+        color: #999;
+        display: flex;
+    }
+
+    .mt-5 {
+        margin-top: 0.5rem;
+    }
+
+    .getTheApp {
+        display: flex;
+        color: #ffffff;
+        justify-content: center;
+        gap: 1rem;
+        align-items: center;
+        padding-bottom: 1rem;
+    }
+
+    .copyRightSection {
+        background-color: #000;
+    }
+
+    .fz {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .mt-5{
+        margin-top: 1.5rem;
+    }
+
+    /*main footer End*/
+    /* Footer End*/
+
+
+
+    /* Resposive Home Pages Start*/
+    /* Laptops and small screen – 769px — 1024px */
+    @media all and (min-width:769px) and (max-width:1024px) {
+
+        .mainSlider {
+            height: 280px;
+        }
+
+        .Header {
+            padding: 0 20px;
+        }
+
+        .Header__Search {
+            width: 50%;
+        }
+
+        .search-icon {
+            width: 30%;
+        }
+
+        .Header__Login {
+            margin-left: 0;
+        }
+
+        .Header__LikeCart {
+            width: 9%;
+        }
+
+        .anotherMenuDropdown,
+        .anotherMenuDropdown1 {
+            display: block;
+            overflow: hidden;
+        }
+
+        .menuDropdownContent {
+            height: 30vh;
+            overflow: auto;
+        }
+
+        .navHeading .level2,
+        .navHeading .level3 {
+            flex-direction: column;
+        }
+
+        .add {
+            font-size: 12px;
+            display: flex;
+            align-items: center
+        }
+
+        .w-full {
+            width: 100%;
+        }
+
+        li {
+            margin-bottom: 0px;
+        }
+
+        .padding {
+            padding: 0 20px;
+        }
+
+        .mlr {
+            margin: 0 10px;
+        }
+
+        .btnPart div button {
+            padding: 7px 10px;
+        }
+
+        .heart {
+            padding: 7px 10px;
+        }
+
+        .EachProduct {
+            margin-left: 10px;
+        }
+
+        .px-50 {
+            padding: 0 5px;
+        }
+
+        .slick-slide>div {
+            margin: 0 0px;
+        }
+
+        .btnPart .f-size {
+            font-size: 14px;
+        }
+
+        .SukarHai img {
+            height: 350px;
+            object-fit: inherit;
+            border-radius: 10px;
+        }
+
+        .imgageDiv {
+            margin: 0 10px;
+        }
+
+        .PriceSection {
+            flex-direction: column;
+        }
+
+        .strike {
+            font-size: 20px;
+        }
+
+        .rupyaSymbole {
+            font-size: 15px;
+        }
+
+        .off {
+            font-size: 20px;
+        }
+
+        .recentView .EachProduct {
+            height: 430px;
+        }
+
+        .recentView .EachProduct .PriceSection {
+            height: 100px;
+        }
+
+        .recentView .EachProduct .btnPart {
+            margin-top: -20px;
+        }
+
+        .footer_desktop_subscribe__qoHC_>button {
+            height: 45px;
+        }
+
+        .col-8 {
+            width: 85%;
+        }
+
+        .pad {
+            padding-right: 1rem;
+            padding-left: 1rem;
+        }
+
+        .insideGetInTouch {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px 5px;
+        }
+
+        .ins {
+            width: 50%;
+            margin-left: -300px;
+        }
+
+        .fz {
+            text-align: left;
+        }
+
+        .mail_link {
+            text-align: left;
+        }
+
+        .db {
+            display: block;
+            text-align: left;
+        }
+    }
+
+
+    /* Resposive Home Pages End*/
+
+
+
+    /* For Mobile Devices – 320px — 480px
+    iPads and Tablets – 481px — 768px
+    Laptops and small screen – 769px — 1024px
+    Large screens and Desktops – 1025px — 1200px
+    TV and Extra Large Screens – 1201px and more */
