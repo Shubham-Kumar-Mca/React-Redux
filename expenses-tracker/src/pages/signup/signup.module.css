@@ -1,0 +1,50 @@
+.singupContainer{
+    width: 30rem;
+    padding: 1.5rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 18px 3px rgb(193, 193, 193);
+    padding-bottom: 2rem;
+    margin: 5rem auto;
+}
+.singupContainer form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .5rem;
+}
+.singupContainer form div label{
+    margin-bottom: .5rem;
+}
+.singupContainer form div input{
+    padding: 10px;
+    border: 1px solid #333;
+    font-size: 16px;
+    border-radius: 5px;
+    /* margin-bottom: .5rem; */
+    outline: none;
+}
+.singupContainer form input[type="submit"]{
+    width: 100%;
+    padding: 13px;
+    font-size: 16px;
+    border: none;
+    background-color: #db3545;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.pTag{
+    color: red;
+}
+
+
+@media screen and (max-width: 600px){
+    .singupContainer{
+        width: 25rem;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .singupContainer{
+        width: 20rem;
+    }
+}
