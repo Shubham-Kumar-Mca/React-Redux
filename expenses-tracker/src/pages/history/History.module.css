@@ -1,0 +1,76 @@
+.historySection{
+    width: 30%;
+    margin: auto;
+}
+.emptyBox{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(228, 226, 226);
+}
+.singleHistory{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px 3px rgb(211, 211, 211);
+
+}
+.leftSide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.leftSide div:last-child{
+    margin-left: 10px;
+}
+.leftSide div p{
+    font-size: 13px;
+}
+.leftSide div p:last-child{
+    margin-top: -5px;
+    font-size: 10px;
+}
+.rSide{
+    width: 23%;
+    text-align: center;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 15px;
+}
+.selectTag{
+    width: 30%;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+select{
+    padding: 10px;
+    width: 100%;
+    margin: auto;
+    outline: none;
+    cursor: pointer;
+}
+.buttonSec{
+    display: flex;
+    width: 15%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+.buttonSec button{
+    padding: 2px 25px;
+    cursor: pointer;
+}
+.buttonSec p{
+    font-weight: 600;
+    font-size: 20px;
+}
