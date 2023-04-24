@@ -1,0 +1,12 @@
+//SIGNUP
+export const USER_SIGNUP_SUCESS = "type/USER/SIGNUP/SUCESS";
+
+export const GETTING_USER_REQUEST= "type/GEETING/USER/REQUEST";
+export const GETTING_USER_DATA = "type/GEETING/USER/DATA";
+export const GEETING_USER_ERROR = "type/GETTING/USER/ERROR";
+
+
+//user login;
+export const USER_LOGIN_REQUEST = "type/USER/LOGIN/REQUEST";
+export const USER_LOGIN_SUCCESS = "type/USER/LOGIN/SUCESS";
+export const USER_LOGIN_ERROR = "type/USER/LOGIN/ERROR";
