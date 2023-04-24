@@ -1,0 +1,29 @@
+
+.buttonSection ul{
+    width: 25%;
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+.buttonSection li{
+    position: relative;
+}
+.buttonSection a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.buttonSection a.active::after{
+    content: "";
+    width: 50%;
+    height: 2px;
+    background-color: #088178;
+    position: absolute;
+    bottom: -4px;
+    left: 0px;
+  }
