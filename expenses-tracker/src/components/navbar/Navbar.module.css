@@ -1,0 +1,57 @@
+.NavbarContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 40px;
+    box-shadow: 0 0 3px 3px rgb(222, 222, 222);
+    height: 70px;
+    /* position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999; */
+}
+
+.NavbarContainer h2 a {
+    text-decoration: none;
+}
+
+.NavbarContainer ul {
+    list-style: none;
+    display: flex;
+}
+
+.NavbarContainer li {
+    margin-right: 30px;
+    position: relative;
+}
+
+.NavbarContainer ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.NavbarContainer a.active::after {
+    content: "";
+    width: 50%;
+    height: 2px;
+    background-color: #088178;
+    position: absolute;
+    bottom: -4px;
+    left: 0px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .loginContainer {
+        width: 25rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .loginContainer {
+        width: 20rem;
+    }
+}
